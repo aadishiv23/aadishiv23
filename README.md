@@ -1,6 +1,6 @@
 # **Aadi Shiv Malhotra**
 
-An undergraduate student at the **University of Michigan**, studying **Computer Science** and **Cognitive Science**. I primarily work with **Swift** and its associated frameworks, including **SwiftUI** and **UIKit**. 
+Aan undergraduate student at the **University of Michigan**, studying **Computer Science** and **Cognitive Science**. I primarily work with **Swift** and its associated frameworks, including **SwiftUI** and **UIKit**. 
 
 I have experience as a **Research Assistant** at the **Ljungman Lab**, where I contributed to our **KLIPP team**, developing CRISPR-based precision cancer therapies. During my first two and a half years in the wet lab, I focused on **cell cultures**, conducting experiments on various cell lines, and investigating **circularRNA** for more efficient RNA delivery. You can read more about our work in these resources:
 - [PubMed Article](https://pubmed.ncbi.nlm.nih.gov/37214957/)
@@ -20,16 +20,16 @@ Previously, I interned at **Fetch** during the **summer of 2024** as an **iOS En
 ## 🚀 **Projects**
 
 ### [🖥️ macBoard](https://github.com/aadishiv23/macBoard)
-A macOS productivity tool designed to streamline clipboard management, enabling users to store, organize, and efficiently access their clipboard history.
+A macOS clipboard management tool featuring short and long-term content storage (currently text-only), extending the default clipboard capabilities.
 
 ### [📸 Photon](https://github.com/aadishiv23/photon)
-A SwiftUI-based photo-sharing platform that prioritizes intuitive user interfaces and optimized image rendering performance.
+A SwiftUI-based camera app exploration designed to display RAW photo data, offering users deeper customizability and control.
 
 ### [📍 Radius](https://github.com/aadishiv23/Radius)
-An iOS application leveraging geolocation technology to allow users to define, monitor, and interact with custom geographic zones while maintaining seamless social integration.
+An iOS application designed as a social location game featuring user-defined zones, friendly competition, and a world fog-of-war map showcasing exploration progress.
 
 ### [✏️ Pencil Prototype](https://github.com/aadishiv23/PencilPrototype)
-A prototype tool built with PencilKit and SwiftUI, designed to explore innovative digital note-taking experiences with advanced interactivity.
+A SwiftUI and PencilKit-based prototype aimed at delivering a simple, streamlined note-taking experience. *(Project name TBD)*
 
 ---
 
