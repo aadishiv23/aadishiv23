@@ -11,7 +11,7 @@ More recently, I worked on our **technology pipelines**, helping identify **ecDN
 
 Previously, I interned at **Fetch** during the **summer of 2024** as an **iOS Engineering Intern**. During my time there, I contributed to delivering features for **search functionality**, enhancing the **new home page**, and integrating **Shortcuts and App Intents**.
 
-### **Connect with me:**
+### **Contact:**
 - [LinkedIn](https://www.linkedin.com/in/aadi-shiv-malhotra/)
 - **Email:** [aadishiv@umich.edu](mailto:aadishiv@umich.edu)
 
