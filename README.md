@@ -1,5 +1,8 @@
 # **Aadi Shiv Malhotra**
 
+Currently at **Fetch** as an **iOS Engineer**.
+Previously, interned at **Apple** in the **Proactive Intelligence** org working on **Shortcuts** automation product. Worked on iOS/macOS 26 based tentpole features on Shortcuts specifically Actions in Spotlight in macOS Tahoe and system level tool infrastructure system serving Spotlight, Siri and more.
+
 Aan undergraduate student at the **University of Michigan**, studying **Computer Science** and **Cognitive Science**. I primarily work with **Swift** and its associated frameworks, including **SwiftUI** and **UIKit**. 
 
 I have experience as a **Research Assistant** at the **Ljungman Lab**, where I contributed to our **KLIPP team**, developing CRISPR-based precision cancer therapies. During my first two and a half years in the wet lab, I focused on **cell cultures**, conducting experiments on various cell lines, and investigating **circularRNA** for more efficient RNA delivery. You can read more about our work in these resources:
